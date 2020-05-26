@@ -1,0 +1,180 @@
+
+.box-left {
+  border-top: 90px solid white;
+  border-bottom: 90px solid white;
+  border-left: 90px solid white;
+  background-color: rgb(176, 224, 230, 0.5);
+}
+
+.logo {
+  font-family: "Raleway Extra Bold";
+  border: 2px solid #333366;
+  color: #333366;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  margin-top: -1.4em;
+  margin-left: 2.1em;
+}
+
+.l-arrow {
+  color: #333366;
+  top: 48%;
+  right: 65%;
+  left: 0;
+  margin: 0 auto;
+  width: 120px;
+}
+
+.r-arrow {
+  color: #ffffff;
+  top: 48%;
+  right: -83%;
+  left: 0;
+  margin: 0 auto;
+  width: 120px;
+}
+
+.text-bottom-l {
+  font-family: "Raleway";
+  bottom: 3%;
+  left: 10%;
+  font-size: 15px;
+}
+
+.d-text {
+  opacity: 50%;
+  left: 0%;
+}
+
+a {
+  color: #333366;
+}
+
+.l-text {
+  font-size: 14px;
+  left: -5.5%;
+  top: 50%;
+  opacity: 30%;
+  width: 17%;
+}
+
+.box-right {
+  background-image: url('images/bg-fleurs.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-photo {
+  background-image: url('images/fleur01.jpg');
+  width: 350px;
+  height: 350px;
+  background-repeat: no-repeat;
+}
+
+@font-face {
+  font-family: "Raleway Extra Bold";
+  src: url('fonts/raleway.extrabold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Kitten Swash Trial";
+  src: url('fonts/KittenSwashTrial.ttf') format('truetype');
+}
+
+.block-text {
+  padding-top: 6em;
+}
+
+.under-text {
+  font-size:70%;
+  color: #333366;
+}
+
+.title-quote {
+  color: white;
+  font-size: 9.1em;
+  font-family: "Raleway Extra Bold", sans-serif;
+  text-shadow: 0.2em 0.05em 0.8em black;
+  border-bottom: 8px solid #ffcccc;
+  line-height: 0.9em;
+}
+
+.under-quote {
+  color: white;
+  font-size: 20px;
+  font-family: "Kitten Swash Trial", sans-serif;
+  padding-bottom: 1.1em;
+}
+
+.btn-more {
+  height: 50px;
+  width: 50px;
+  background-color: #333366;
+  margin-top: 21.60em;
+  margin-left: 10em;
+}
+
+.btn-more:hover {
+  cursor: pointer;
+  border: 2px solid red;
+}
+
+.icon-circle {
+  color: white;
+  margin-left: 0.15em;
+  margin-top: 1.0em;
+}
+
+.icon-plus {
+  color: white;
+  left: -1.39em;
+  bottom: 0.08em;
+}
+
+.style1 {
+  top: 0px;
+}
+
+.style2 {
+  top: -80px;
+}
+
+.style3 {
+  top: 40px;
+}
+
+.btn-bars {
+  margin-top: 3%;
+  margin-left: 90%;
+}
+
+.btn-search {
+  margin-top: 3%;
+  margin-left: 85%;
+}
+
+.follow-text {
+  color: white;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  margin-left: 75%;
+  margin-bottom: 2.1%;
+}
+
+.btn-dribble {
+  margin-left: 84%;
+  margin-bottom: 2%;
+}
+
+.btn-ins {
+  margin-left: 87%;
+  margin-bottom: 2%;
+
+}
+
+.btn-fb {
+  margin-left: 90%;
+  margin-bottom: 2%;
+}
