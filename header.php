@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
-  <!--l'en-tête de la page-->
-
   <head>
     <meta charset="utf-8">
-    <title>Quotime projet</title>
+    <title>Quotime</title>
 
-    <!--Les librairies et icons-->
+    <!--Les librairies et icônes-->
     <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -22,7 +19,5 @@
     <!--Lien vers le css locale-->
     <link rel="stylesheet" href="main.css">
   </head>
-
-  <!--Le corps de la page-->
 
   <body>
